@@ -11,7 +11,7 @@
     </tr>
     <tr>
       <td align="center"><img width="100" alt="image" src=""></td>
-      <td align='center'><img width="100" alt="image" src=""></td>
+      <td align='center'><img width="100" alt="image" src="![image](https://github.com/user-attachments/assets/8f19710c-34ca-4a74-84b2-717606e7c819)"></td>
       <td align='center'><img width="100" alt="image" src=""></td>
       <td align='center'><img width="100" alt="image" src=""></td>
     </tr>
