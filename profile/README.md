@@ -44,7 +44,7 @@
 <details>
 <summary><strong>마이 페이지 및 정보 수정</strong></summary>
 
-<img src="https://github.com/MeetSipDrink/.github/blob/main/assets/멤버정보수정.gif?raw=true" width="20%" />
+<img src="https://github.com/MeetSipDrink/.github/blob/main/assets/맴버정보수정.gif?raw=true" width="20%" />
 
 </details>
 
