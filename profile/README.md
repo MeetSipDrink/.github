@@ -12,7 +12,7 @@
     <tr>
       <td align="center"><img width="100" alt="image" src=""></td>
       <td align='center'><img width="100" alt="image" src="https://github.com/user-attachments/assets/8f19710c-34ca-4a74-84b2-717606e7c819"></td>
-      <td align='center'><img width="100" alt="image" src=""></td>
+      <td align='center'><img width="100" alt="image" src="https://github.com/MeetSipDrink/.github/blob/main/assets/%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8E%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%AE%E1%86%AB.jpg?raw=true"></td>
       <td align='center'><img width="100" alt="image" src=""></td>
     </tr>
     <tr>
