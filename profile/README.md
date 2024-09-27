@@ -1,10 +1,29 @@
 # **한 마디 한 잔**
 
-## **팀원**
-- 남채연
-- 방승욱
-- 김찬준
-- 서진형
+### 팀원
+<table>
+  <tbody>
+    <tr width='100%'>
+      <th align="center" width='20%'>남채연👑</th>
+      <th align="center" width='20%'>방승욱</th>
+      <th align="center" width='20%'>김찬준</th>
+      <th align="center" width='20%'>서진형</th>
+    </tr>
+    <tr>
+      <td align="center"><img width="100" alt="image" src=""></td>
+      <td align='center'><img width="100" alt="image" src=""></td>
+      <td align='center'><img width="100" alt="image" src=""></td>
+      <td align='center'><img width="100" alt="image" src=""></td>
+    </tr>
+    <tr>
+      <td width="150"><a href="https://github.com/chaeneeee">@chaeneeee</a></td>
+      <td width="150"><a href="https://github.com/coding-Rhino">@coding-Rhino</a></td>
+      <td width="150"><a href="https://github.com/JUNKKC">@JUNKKC</a></td>
+      <td width="150"><a href="https://github.com/JinhyeongSeo">@JinhyeongSeo</a></td>
+    </tr>  
+  </tbody>
+</table>
+<br>
 
 ---
 
@@ -24,8 +43,6 @@
 ---
 
 ## **기능 구현**
-
----
 
 <details>
 <summary><strong>로딩 페이지 & 회원가입</strong></summary>
