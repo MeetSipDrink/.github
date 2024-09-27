@@ -52,6 +52,13 @@
 </details>
 
 <details>
+<summary><strong>인증서 수신 및 인증</strong></summary>
+
+<img src="https://github.com/MeetSipDrink/.github/blob/main/assets/%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%89%E1%85%A5%20%E1%84%89%E1%85%AE%E1%84%89%E1%85%B5%E1%86%AB.gif?raw=true" width="20%" />
+
+</details>
+
+<details>
 <summary><strong>로그인</strong></summary>
 
 <img src="https://github.com/MeetSipDrink/.github/blob/main/assets/로그인.gif?raw=true" width="20%" />
